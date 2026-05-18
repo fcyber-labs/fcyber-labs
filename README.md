@@ -121,10 +121,9 @@ I write about what I build — the real implementation details, the problems tha
 
 ## Profiles
 
-<div align="center">
-[![Hugging Face|210](https://img.shields.io/badge/Hugging%20Face-fcyper-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E&color=FFD21E)](https://huggingface.co/fcyper)[![Kaggle](https://img.shields.io/badge/Kaggle-fcyper-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=20BEFF)](https://www.kaggle.com/fcyper)[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-fcyper-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)](https://hub.docker.com/r/fcyper)
-[![Medium](https://img.shields.io/badge/Medium-fcyper-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000)](https://medium.com/@fcyper)[![LinkedIn](https://img.shields.io/badge/LinkedIn-fcyper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/fcyper)
-</div>
+
+[![Hugging Face|210](https://img.shields.io/badge/Hugging%20Face-fcyber-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E&color=FFD21E)](https://huggingface.co/fcyber)[![Kaggle](https://img.shields.io/badge/Kaggle-fcyber-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=20BEFF)](https://www.kaggle.com/fcyber)[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-fcyber-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)](https://hub.docker.com/r/fcyber)
+[![Medium](https://img.shields.io/badge/Medium-fcyber-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000)](https://medium.com/@fcyber)[![LinkedIn](https://img.shields.io/badge/LinkedIn-fcyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/fcyber)
 
 
 

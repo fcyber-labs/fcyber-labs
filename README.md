@@ -9,6 +9,19 @@ Most of my work is open source. If something I built saves you a week of debuggi
 
 ---
 
+## Profiles
+
+<div align="center">
+
+[![Hugging Face|210](https://img.shields.io/badge/Hugging%20Face-fcyber-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E&color=FFD21E)](https://huggingface.co/fcyber) [![Kaggle](https://img.shields.io/badge/Kaggle-fcyber-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=20BEFF)](https://www.kaggle.com/fcyber) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-fcyber-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)](https://hub.docker.com/r/fcyber)
+[![Medium](https://img.shields.io/badge/Medium-fcyber-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000)](https://medium.com/@fcyber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-fcyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/fcyber) [![GitLab](https://img.shields.io/badge/GitLab-fcyber-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26&color=FC6D26)](https://gitlab.com/fcyber) 
+[![DagsHub](https://img.shields.io/badge/DagsHub-fcyber-7e78b2?style=for-the-badge&logo=dagshub&logoColor=7e78b2&labelColor=7e78b2&color=7e78b2)](https://dagshub.com/fcyber)
+
+
+</div>
+
+---
+
 ## What I specialise in
 
 **LLM Fine-Tuning** — domain-specific models trained on high-quality, custom-built datasets. Not generic instruction tuning. Purpose-built models that reason differently because they were trained differently. My current flagship is [FinReasoner](https://huggingface.co/fcyber/FinReasoner-qwen2.5-14b-instruct) — a Qwen 2.5 14B model fine-tuned on 12,500 gold-standard SEC filing analyses across 580 companies and 5 years of data. The dataset took about 30,000 LLM calls and a multi-agent generator-auditor pipeline to build. The model does causal financial reasoning, not summarization.
@@ -117,16 +130,5 @@ I write about what I build — the real implementation details, the problems tha
 - [Why Integrating Apple's Ecosystem into a Local RAG Project Is Harder Than It Looks](https://medium.com/@fcyber/why-integrating-apples-ecosystem-into-a-local-rag-project-is-harder-than-it-looks-3949f9f03131)
 - More pieces in progress on FinReasoner, the PPTX agent, and the MLOps stack
 
----
 
-## Profiles
-
-<div align="center">
-
-[![Hugging Face|210](https://img.shields.io/badge/Hugging%20Face-fcyber-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E&color=FFD21E)](https://huggingface.co/fcyber) [![Kaggle](https://img.shields.io/badge/Kaggle-fcyber-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=20BEFF)](https://www.kaggle.com/fcyber) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-fcyber-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)](https://hub.docker.com/r/fcyber)
-[![Medium](https://img.shields.io/badge/Medium-fcyber-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000)](https://medium.com/@fcyber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-fcyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/fcyber) [![GitLab](https://img.shields.io/badge/GitLab-fcyber-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26&color=FC6D26)](https://gitlab.com/fcyber) 
-[![DagsHub](https://img.shields.io/badge/DagsHub-fcyber-7e78b2?style=for-the-badge&logo=dagshub&logoColor=7e78b2&labelColor=7e78b2&color=7e78b2)](https://dagshub.com/fcyber)
-
-
-</div>
 
